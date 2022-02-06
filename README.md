@@ -1,5 +1,5 @@
 # wanted_pre_onboarding
-Wanted onboard course submission repository
+원티드 프리온보딩 코스
 
 - 구현한 방법과 이유에 대한 간략한 내용
   > 각 React Component에 Styled-components를 활용하여 작성하였다.<br>
